@@ -1,4 +1,4 @@
-# Hola_mundo
+# Hello_World
 Primer repositorio editado, damn.
 
 # Aprendiendo Git
